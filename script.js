@@ -6,7 +6,7 @@ let users = ['Prof. Saurabh ','Prof. Bandana ', 'Prof. Preetish', 'Prof. Prassan
  'Prof. Pallavi', 'Prof. Shilpi','Honble Vc Sir', 'Honble Pro Vc Sir', 
  'Prof. Sushil Kumar','Prof. Rashmi Shekhar','Prof. Dheeraj','Prof. Indrajit',
  'Prof. Anshuman','Prof. Abhinav Sahey','Prof.Nikhil','Prof. Ruchi Mishra',
- 'Prof. Avishek','Prof. Ajit','Prof. Srikant','Prof. Sweta'];
+ 'Prof. Avishek','Prof. Ajit','Prof. Srikant','Prof. Sweta', 'Anshu ma am'];
  
  function getRandomNumber(min, max) {
   let step1 = max - min + 1;
